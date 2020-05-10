@@ -1,6 +1,6 @@
 ![Icon](https://i.imgur.com/rPIJswn.png?1) 
 # DomainProbes
-[![Build status](https://ci.appveyor.com/api/projects/status/16qwl13xsaylb450?svg=true)](https://ci.appveyor.com/project/lvermeulen/flurl-http-xml) [![license](https://img.shields.io/github/license/lvermeulen/DomainProbes.svg?maxAge=2592000)](https://github.com/lvermeulen/DomainProbes/blob/master/LICENSE) [![NuGet](https://img.shields.io/nuget/vpre/DomainProbes.svg?maxAge=86400)](https://www.nuget.org/packages/DomainProbes/) ![](https://img.shields.io/badge/.net-4.5-yellowgreen.svg) ![](https://img.shields.io/badge/netstandard-1.1-yellowgreen.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/7mo30k4xw2e3c00g?svg=true)](https://ci.appveyor.com/project/lvermeulen/domainprobes) [![license](https://img.shields.io/github/license/lvermeulen/DomainProbes.svg?maxAge=2592000)](https://github.com/lvermeulen/DomainProbes/blob/master/LICENSE) [![NuGet](https://img.shields.io/nuget/vpre/DomainProbes.svg?maxAge=86400)](https://www.nuget.org/packages/DomainProbes/) ![](https://img.shields.io/badge/.net-4.5-yellowgreen.svg) ![](https://img.shields.io/badge/netstandard-1.1-yellowgreen.svg)
 
 C# implementation of [Domain Oriented Observability](https://martinfowler.com/articles/domain-oriented-observability.html) by [Pete Hodgson](https://blog.thepete.net/about/).
 

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net45;netstandard1.1;netstandard1.3;netstandard1.4;netstandard1.6;netstandard2.0;netstandard2.1</TargetFrameworks>
+    <Authors>Luk Vermeulen</Authors>
+    <Copyright>Copyright (c) 2020 by Luk Vermeulen. All rights reserved.</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/lvermeulen/DomainProbes</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/lvermeulen/DomainProbes</RepositoryUrl>
+    <PackageTags>domain oriented observability probe</PackageTags>
+    <Description>C# implementation of Domain Oriented Observability</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DomainProbes.Announcers\DomainProbes.Announcers.csproj" />
+    <ProjectReference Include="..\DomainProbes.Contexts\DomainProbes.Contexts.csproj" />
+  </ItemGroup>
+
+</Project>

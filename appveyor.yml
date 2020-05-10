@@ -24,7 +24,7 @@ deploy:
   api_key:
     secure: Uft/AgWL0ObDUb6hWLhsftRR1sNhLa5vONUcVa/2KjVAYZApxZD6ckJ+ABFQs3bB
   skip_symbols: true
-  artifact: /.*\.nupkg/
+  artifact: /DomainProbes.[0-9].[0-9].[0-9]\.nupkg/
   on:
       branch: master                # release from master branch only
       appveyor_repo_tag: true       # deploy on tag push only
